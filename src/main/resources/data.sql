@@ -1,0 +1,2 @@
+INSERT INTO user (id, username, password, active, created_at, updated_at, created_by, updated_by)
+    VALUES (1, 'joaopetreli', 'abc123', true, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP, 'joaopetreli', 'joaopetreli');
